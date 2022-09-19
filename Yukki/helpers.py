@@ -113,6 +113,7 @@ HELP_TEXT = f"""Welcome to {botname}'s Help Section.
 
 - When someone mentions you in a chat, the user will be notified you are AFK. You can even provide a reason for going AFK, which will be provided to the user as well.
 
+- U can also use me in pm too
 
 /afk - This will set you offline.
 
