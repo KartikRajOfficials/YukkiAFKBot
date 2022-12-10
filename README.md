@@ -55,3 +55,6 @@ Special thanks to these amazing projects/people which/who help power Yukki AFK B
 - [TheHamkerCat](https://github.com/TheHamkerCat)
 
 Reminder that you are great, you are enough, and your presence is valued. If you are struggling with your mental health, please reach out to someone you love and consult a professional.
+
+
+<p align="center"><a href="https://my.scalingo.com/deploy?template=github.com/KartikRajOfficials/YukkiAFKBot"> <img src="https://cdn.scalingo.com/deploy/button.svg" width="220" height="38.45"/></a></p>
