@@ -1,9 +1,9 @@
 {
-  "name": "Yukki AFK Bot",
+  "name": "AFK Bot",
   "description": "Simple and Powerful Telegram's AFK Bot written in Pyrogram using MongoDB.",
   "logo": "https://telegra.ph/file/78bc88b883b22024002cd.jpg",
   "keywords": [
-    "yukki",
+    "kk",
     "mongodb",
     "python",
     "pyrogram"
